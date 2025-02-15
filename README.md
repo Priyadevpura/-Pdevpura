@@ -1,2 +1,4 @@
 # -Pdevpura
-Leetcode sql challenges
+![LeetCode Stats](https://leetcard.jacoblin.cool/ Pdevpura)
+
+
